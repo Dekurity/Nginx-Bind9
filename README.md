@@ -1,5 +1,3 @@
-Berikut adalah langkah-langkah yang telah Anda sebutkan untuk mengkonfigurasi Nginx dan BIND9:
-
 ### Konfigurasi Nginx
 
 1. **Instalasi Nginx**
